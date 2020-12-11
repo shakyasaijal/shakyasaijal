@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on multi-vendor eCommerce.
 - 👯 I’m looking to collaborate on Python and React projects.
 - 💬 Ask me about `Python` `React` `Django` `Flask` `Jupyter` `Laravel` `ElectronJS`
+- 📰 My Article in [Medium](https://medium.com/@saijalshakya)
 - ⚡ Fun fact: `You are reading this :D`
